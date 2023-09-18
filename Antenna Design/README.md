@@ -1,7 +1,5 @@
 # Patch Antenna Design
-
-# 1. Introdudction
-> Design and simulate Patch Antenna with AWS design software tool
+> Designd Patch Antenna and simulated it's S11 parameter with AWS design software tool
 
 ## Before
 - Used the calculator provided by the site below to find the width and length of the patch antenna.
@@ -11,7 +9,7 @@
 
 https://www.everythingrf.com/rf-calculators/microstrip-patch-antenna-calculator
 
-# 2. Design Flow 
+# Design Flow 
 <img src="/Antenna Design/images/design flow.png" width="75%" height="75%" title="flow" alt="flow"></img>
 
 ## (1) Set Units, Frequency

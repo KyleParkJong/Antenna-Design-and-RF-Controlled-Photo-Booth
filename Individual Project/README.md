@@ -1,4 +1,6 @@
 # Individual Project
+> Measured the S21 parameter of the designed patch antenna using Adalm Pluto and Matlab
+
 # 1. Simulation
 <img src="/Individual Project/images/flow4-3-1.jpg" width="40%" height="40%" title="flow" alt="flow"></img>
 
