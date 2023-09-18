@@ -40,11 +40,11 @@ Depending on the input of the pushbutton, it generates sine waves of different f
 ## (3) Image Transmission via Digital Modulation (64-QAM)
 
 ### _Photo Booth_ sending 
-<img src="/Photo Booth/images/img tran1.jpg" width="21%" height="21%" title="flow" alt="flow"></img>
+<img src="/Photo Booth/images/img tran1.jpg" width="50%" height="50%" title="flow" alt="flow"></img>
 <img src="/Photo Booth/images/img tran11.jpg" width="21%" height="21%" title="flow" alt="flow"></img>
 
 ### _User_ receiving
-<img src="/Photo Booth/images/img tran2.jpg" width="21%" height="21%" title="flow" alt="flow"></img>
+<img src="/Photo Booth/images/img tran2.jpg" width="50%" height="50%" title="flow" alt="flow"></img>
 <img src="/Photo Booth/images/img tran22.jpg" width="21%" height="21%" title="flow" alt="flow"></img>
 
 - Referenced the Matlab documentation below
