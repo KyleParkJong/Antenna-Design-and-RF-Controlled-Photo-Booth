@@ -97,7 +97,6 @@ https://www.everythingrf.com/rf-calculators/microstrip-patch-antenna-calculator
 ## Patch antenna connected to Adalm Pluto
 <img src="/Antenna Design/images/indiv1.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
 
-
 # Case 1 : Placing two Patch antennas parallel to each other
 <img src="/Antenna Design/images/case1.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
 
@@ -115,6 +114,7 @@ https://www.everythingrf.com/rf-calculators/microstrip-patch-antenna-calculator
 <img src="/Antenna Design/images/indiv6.jpg" width="40%" height="40%" title="flow" alt="flow"></img>
 <img src="/Antenna Design/images/indiv7.jpg" width="40%" height="40%" title="flow" alt="flow"></img>
 
-
+# Case 2 : Placeing two Patch antennas parallel and facing each other while rotating the receiver antenna 90 degrees
+<img src="/Antenna Design/images/case2.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
 
 
