@@ -10,7 +10,7 @@
 https://www.everythingrf.com/rf-calculators/microstrip-patch-antenna-calculator
 
 # Design Flow 
-<img src="/Antenna Design/images/design flow.jpg" width="75%" height="75%" title="flow" alt="flow"></img>
+<img src="/Antenna Design/images/design flow.png" width="75%" height="75%" title="flow" alt="flow"></img>
 
 ## (1) Set Units, Frequency
 
