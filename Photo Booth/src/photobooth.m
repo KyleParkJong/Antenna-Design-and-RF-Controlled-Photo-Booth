@@ -3,7 +3,7 @@ close all;
 clc;
 
 fs = 10e6;
-fc = 830e6; % 반송파 주파수
+fc = 830e6; % Carrier Freq.
 
 % State (flag) %
 IDLE = true; CAPTURE = false; UP = false; DOWN = false;
@@ -33,7 +33,7 @@ rx = sdrrx('Pluto');
 rx.CenterFrequency = fc; 
 rx.BasebandSampleRate = fs; 
 rx.OutputDataType = 'double'; 
-rx.SamplesPerFrame = 1000*2;    % txdata.SamplesPerFrame의 2배
+rx.SamplesPerFrame = 1000*2;    % txdata.SamplesPerFrame x 2
 rx.GainSource = 'Manual'; 
 rx.Gain = 25; 
 
@@ -77,7 +77,7 @@ while (i ~= 5)  % 사진 4번 찍으면 종료
             end
             theta = theta+1;
         case down
-            for angle = 0.5+0.07*(theta-3) : -0.01 : 0.5+0.07*(theta-4)  % 약 10 degrees down
+            for angle = 0.5+0.07*(theta-3) : -0.01 : 0.5+0.07*(theta-4)  % 10 degrees down
                 writePosition(s, angle);
             end
             theta = theta-1;
@@ -128,7 +128,7 @@ ImFileOut = fullfile(pwd, ImName);
 imwrite(result_img_gray,ImFileOut);
 
 
-%% 저조도 영상 향상 %%
+%% Lightening %%
 img_array = {img1, img2, img3, img4};
 img_imp = {0,0,0,0};
 for ii = 1 : 4

@@ -1,5 +1,3 @@
-%% 사진전송 포함 가장 최근본 
-
 clear all;
 close all;
 clc;
@@ -20,7 +18,7 @@ sw = dsp.SineWave;
 sw_setting(sw, idle, 1000);
 
 % Transmit %
-fc = 830e6; % 반송파 주파수
+fc = 830e6; % Carrier Freq.
 tx = sdrtx('Pluto');
 tx.CenterFrequency = fc;
 tx.BasebandSampleRate = fs;
@@ -88,7 +86,7 @@ while (i ~= 5)
     Ft = fftshift(fft(txdata));
 
     [MAX, index] = max(Ft);
-    freq = f(index);   % txdata의 주파수
+    freq = f(index);   % txdata freq.
     fprintf("txdata freq : %d\n", freq)
     
     release(sw);
