@@ -8,8 +8,8 @@
 - Utilize image processing techniques
 
 # 2. Flow & Block Diagram
-<img src="/Photo Booth/images/flow chart.jpg" width="45%" height="45%" title="flow" alt="flow"></img>
-<img src="/Photo Booth/images/block diagram.jpg" width="45%" height="45%" title="flow" alt="flow"></img>
+<img src="/Photo Booth/images/flow chart.jpg" width="25%" height="25%" title="flow" alt="flow"></img>
+<img src="/Photo Booth/images/block diagram.jpg" width="55%" height="55%" title="flow" alt="flow"></img>
 
 ## (1) Controlling Camera
 Depending on the input of the pushbutton, it generates sine waves of different frequencies and sends them to Photo Booth via Adalm Pluto. 
@@ -31,8 +31,8 @@ Depending on the input of the pushbutton, it generates sine waves of different f
 - After taking four photos, the contrast and light levels of the images will be adjusted
 - Four images are stitched together with the pre-made background, and save it into .png file
 
-<img src="/Photo Booth/images/version1.jpg" width="45%" height="45%" title="flow" alt="flow"></img>
-<img src="/Photo Booth/images/version2.jpg" width="45%" height="45%" title="flow" alt="flow"></img>
-<img src="/Photo Booth/images/version3.jpg" width="45%" height="45%" title="flow" alt="flow"></img>
+<img src="/Photo Booth/images/version1.jpg" width="20%" height="20%" title="flow" alt="flow"></img>
+<img src="/Photo Booth/images/version2.jpg" width="20%" height="20%" title="flow" alt="flow"></img>
+<img src="/Photo Booth/images/version3.jpg" width="20%" height="20%" title="flow" alt="flow"></img>
 
 * From left, original, enhanced, and black-and-white 
