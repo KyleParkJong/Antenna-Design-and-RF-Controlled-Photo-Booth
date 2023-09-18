@@ -37,7 +37,7 @@
 <img src="/Individual Project/images/indiv1.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
 
 ## Case 1 : Placing two Patch antennas parallel to each other
-<img src="/Individual Project/images/case1.jpg" width="30%" height="30%" title="flow" alt="flow"></img>
+<img src="/Individual Project/images/case1.jpg" width="15%" height="15%" title="flow" alt="flow"></img>
 
 ## (1) S21 Parameter plot
 ### A. d = 5cm
@@ -51,7 +51,7 @@
 <img src="/Individual Project/images/indiv4.jpg" width="40%" height="40%" title="flow" alt="flow"></img>
 
 ## Case 2 : Placeing two Patch antennas parallel and facing each other while rotating the receiver antenna 90 degrees
-<img src="/Individual Project/images/case2.jpg" width="30%" height="30%" title="flow" alt="flow"></img>
+<img src="/Individual Project/images/case2.jpg" width="25%" height="25%" title="flow" alt="flow"></img>
 
 ### A. d = 5cm
 <img src="/Individual Project/images/indiv5.jpg" width="40%" height="40%" title="flow" alt="flow"></img>
