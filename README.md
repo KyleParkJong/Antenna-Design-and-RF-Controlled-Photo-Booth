@@ -1,10 +1,11 @@
-# Antenna Design and RF controlled Photo Booth
-> Konkuk Univ. Junior, Advanced Electrical and Electronic Design Laboratory and Software Practice - Individual Project & Team Project
+# Antenna Design and RF Controlled Photo Booth
+> Konkuk Univ. Junior, Advanced Electrical and Electronic Design Laboratory and Software Practice
 
-# Patch Antenna Design Lab.
+- Antenna Design
+- RF controlled Photo Booth
+- Individual Project
 
-# 1. Introdudction
-> Design and simulate Patch Antenna with AWS design software tool
+Enter a folder for a more detailed explanation.
 
 
 
