@@ -1,4 +1,4 @@
-# Patch Antenna Design Lab.
+# Patch Antenna Design
 
 # 1. Introdudction
 > Design and simulate Patch Antenna with AWS design software tool
@@ -56,3 +56,38 @@ https://www.everythingrf.com/rf-calculators/microstrip-patch-antenna-calculator
 
 - 'Circuit Schematics' > 'new Schematic' > 'View layout'
 - Gerber file : a file used for PCB fabrication, 3D schematic representation of a PCB
+
+
+# Individual Project
+## 1. Simulation
+<img src="/Antenna Design/images/flow4-3-1.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
+
+- 'enclosure' > 'Dieletric Layers'
+- By setting air between the antennas, I increased the number of layers to 5
+- Adjusted the distance between the antennas while adjusting the thickness of the Layer 3
+
+<img src="/Antenna Design/images/flow4-3-2.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
+
+- Changed the shape property
+
+<img src="/Antenna Design/images/flow4-3-3.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
+
+- EM structure after layer setup is complete
+- Set the top and bottom to face parallel
+
+### (1) d = 5cm, S21 Parameter plot & Radiation Pattern
+<img src="/Antenna Design/images/flow4-3-4.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
+<img src="/Antenna Design/images/flow4-3-5.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
+
+### (2) d = 15cm, S21 Parameter plot & Radiation Pattern
+<img src="/Antenna Design/images/flow4-3-6.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
+<img src="/Antenna Design/images/flow4-3-7.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
+
+### (3) d = 25cm, S21 Parameter plot & Radiation Pattern
+<img src="/Antenna Design/images/flow4-3-8.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
+<img src="/Antenna Design/images/flow4-3-9.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
+
+### Result
+- S21 parameter dB shows a peak at the carrier frequency
+- As the distance between the patch antennas increases, the antenna radiation intensity worsens
+
