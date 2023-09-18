@@ -1,9 +1,7 @@
 # Patch Antenna Design
 
 # 1. Introdudction
-> (1) Design and simulate Patch Antenna with AWS design software tool
-
-> (2) Measure S21 paramters of designed patch antenna with Pluto
+> Design and simulate Patch Antenna with AWS design software tool
 
 ## Before
 - Used the calculator provided by the site below to find the width and length of the patch antenna.
