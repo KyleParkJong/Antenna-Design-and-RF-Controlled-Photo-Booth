@@ -1,4 +1,4 @@
-# Photo Booth: RF controlled Camera
+# RF controlled Photo Booth
 > Term project in teams of two (Kyle Jonghyuk Park, Joongseon Park)
 
 # 1. Objective
