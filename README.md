@@ -7,8 +7,4 @@
 > Design and simulate Patch Antenna with AWS design software tool
 
 
-<img src="/images/bsn_0.jpg" width="15%" height="15%" title="letter" alt="letter"></img>
-
-## (1)
-
 
