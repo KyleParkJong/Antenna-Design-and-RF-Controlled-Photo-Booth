@@ -13,17 +13,17 @@ https://www.everythingrf.com/rf-calculators/microstrip-patch-antenna-calculator
 <img src="/Antenna Design/images/design flow.png" width="75%" height="75%" title="flow" alt="flow"></img>
 
 ## (1) Set Units, Frequency
-<img src="/Antenna Design/images/flow1-1.jpg" width="35%" height="35%" title="flow" alt="flow"></img>
-<img src="/Antenna Design/images/flow1-2.jpg" width="35%" height="35%" title="flow" alt="flow"></img>
+<img src="/Antenna Design/images/flow1-1.JPG" width="35%" height="35%" title="flow" alt="flow"></img>
+<img src="/Antenna Design/images/flow1-2.JPG" width="35%" height="35%" title="flow" alt="flow"></img>
 
 - 'Option' > 'Project Options'
 - Set units
 - Set frequency domain to simulate near the carrier frequency(3.5 GHz) of the patch antenna
 
 ## (2) Set PCB
-<img src="/Antenna Design/images/flow2-1.jpg" width="35%" height="35%" title="flow" alt="flow"></img>
-<img src="/Antenna Design/images/flow2-2.jpg" width="35%" height="35%" title="flow" alt="flow"></img>
-<img src="/Antenna Design/images/flow2-3.jpg" width="35%" height="35%" title="flow" alt="flow"></img>
+<img src="/Antenna Design/images/flow2-1.JPG" width="35%" height="35%" title="flow" alt="flow"></img>
+<img src="/Antenna Design/images/flow2-2.JPG" width="35%" height="35%" title="flow" alt="flow"></img>
+<img src="/Antenna Design/images/flow2-3.JPG" width="35%" height="35%" title="flow" alt="flow"></img>
 
 - 'Project' > 'EM Structures' > 'New EM Structure'
 - Set the material, information, thickness, and layers of the patch antenna substrate to be designed
