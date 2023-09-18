@@ -5,7 +5,7 @@
 - RF controlled Photo Booth
 - Individual Project
 
-Enter a folder for a more detailed explanation.
+Enter a folder for a more detailed explanation and source code.
 
 
 
