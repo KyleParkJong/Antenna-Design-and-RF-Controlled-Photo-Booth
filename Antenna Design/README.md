@@ -39,10 +39,10 @@ https://www.everythingrf.com/rf-calculators/microstrip-patch-antenna-calculator
 
 ## (4) Simulations
 
-### (4-1) S11 Parameters
+### (4-1) S11 Parameter
 <img src="/Antenna Design/images/flow4-1.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
 
-- Plot S11 parameters
+- Plot S11 parameter
 - Simulation results show that the carrier frequency of __3.57 GHz__ has the lowest return loss with a return voltage ratio of -35.12 dB
 
 ### (4-2) Radiation Pattern
