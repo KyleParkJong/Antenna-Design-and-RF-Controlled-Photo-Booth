@@ -12,9 +12,7 @@
 https://www.everythingrf.com/rf-calculators/microstrip-patch-antenna-calculator
 
 # 2. Design Flow 
-<p align="center">
 <img src="/Antenna Design/images/design flow.png" width="75%" height="75%" title="flow" alt="flow"></img>
-</p>
 
 ## (1) Set Units, Frequency
 
@@ -35,24 +33,20 @@ https://www.everythingrf.com/rf-calculators/microstrip-patch-antenna-calculator
 - Set the length of the simulation grid
 
 ## (3) Draw Layout
-<img src="/Antenna Design/images/flow3.jpg" width="40%" height="40%" title="flow" alt="flow"></img>
+<img src="/Antenna Design/images/flow3.jpg" width="35%" height="35%" title="flow" alt="flow"></img>
 
 - Draw a layout based on the numbers calculated by the Microstrip Calculator
 
 ## (4) Simulations
 
 ### (4-1) S11 Parameters
-<p align="center">
-<img src="/Antenna Design/images/flow4-1.jpg" width="40%" height="40%" title="flow" alt="flow"></img>
-</p>
+<img src="/Antenna Design/images/flow4-1.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
 
 - Plot S11 parameters
 - Simulation results show that the carrier frequency of __3.57 GHz__ has the lowest return loss with a return voltage ratio of -35.12 dB
 
 ### (4-2) Radiation Pattern
-<p align="center">
-<img src="/Antenna Design/images/flow4-2.jpg" width="40%" height="40%" title="flow" alt="flow"></img>
-</p>
+<img src="/Antenna Design/images/flow4-2.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
 
 - By checking the antenna radiation pattern, you can see that the radiation intensity is measured uniformly in the direction of the patch antenna
 
