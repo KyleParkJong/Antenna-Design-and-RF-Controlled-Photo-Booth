@@ -54,6 +54,3 @@ https://www.everythingrf.com/rf-calculators/microstrip-patch-antenna-calculator
 
 - 'Circuit Schematics' > 'new Schematic' > 'View layout'
 - Gerber file : a file used for PCB fabrication, 3D schematic representation of a PCB
-
-
-
