@@ -1,7 +1,8 @@
 # Patch Antenna Design
 
 # 1. Introdudction
-> Design and simulate Patch Antenna with AWS design software tool
+> (1) Design and simulate Patch Antenna with AWS design software tool
+> (2) Measure S21 paramters of designed patch antenna with Pluto
 
 ## Before
 - Used the calculator provided by the site below to find the width and length of the patch antenna.
@@ -59,7 +60,7 @@ https://www.everythingrf.com/rf-calculators/microstrip-patch-antenna-calculator
 
 
 # Individual Project
-## 1. Simulation
+# 1. Simulation
 <img src="/Antenna Design/images/flow4-3-1.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
 
 - 'enclosure' > 'Dieletric Layers'
@@ -75,19 +76,45 @@ https://www.everythingrf.com/rf-calculators/microstrip-patch-antenna-calculator
 - EM structure after layer setup is complete
 - Set the top and bottom to face parallel
 
-### (1) d = 5cm, S21 Parameter plot & Radiation Pattern
+## (1) d = 5cm, S21 Parameter plot & Radiation Pattern
 <img src="/Antenna Design/images/flow4-3-4.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
 <img src="/Antenna Design/images/flow4-3-5.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
 
-### (2) d = 15cm, S21 Parameter plot & Radiation Pattern
+## (2) d = 15cm, S21 Parameter plot & Radiation Pattern
 <img src="/Antenna Design/images/flow4-3-6.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
 <img src="/Antenna Design/images/flow4-3-7.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
 
-### (3) d = 25cm, S21 Parameter plot & Radiation Pattern
+## (3) d = 25cm, S21 Parameter plot & Radiation Pattern
 <img src="/Antenna Design/images/flow4-3-8.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
 <img src="/Antenna Design/images/flow4-3-9.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
 
-### Result
+## Result
 - S21 parameter dB shows a peak at the carrier frequency
 - As the distance between the patch antennas increases, the antenna radiation intensity worsens
+
+# 2. S21 Parameter Measure of Designed Patch Antenna with Pluto
+
+## Patch antenna connected to Adalm Pluto
+<img src="/Antenna Design/images/indiv1.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
+
+
+# Case 1 : Placing two Patch antennas parallel to each other
+<img src="/Antenna Design/images/case1.jpg" width="60%" height="60%" title="flow" alt="flow"></img>
+
+## (1) S21 Parameter plot
+### A. d = 5cm
+<img src="/Antenna Design/images/indiv2.jpg" width="40%" height="40%" title="flow" alt="flow"></img>
+<img src="/Antenna Design/images/indiv3.jpg" width="40%" height="40%" title="flow" alt="flow"></img>
+
+
+### B. d = 15cm
+<img src="/Antenna Design/images/indiv4.jpg" width="40%" height="40%" title="flow" alt="flow"></img>
+<img src="/Antenna Design/images/indiv5.jpg" width="40%" height="40%" title="flow" alt="flow"></img>
+
+### C. d = 25cm
+<img src="/Antenna Design/images/indiv6.jpg" width="40%" height="40%" title="flow" alt="flow"></img>
+<img src="/Antenna Design/images/indiv7.jpg" width="40%" height="40%" title="flow" alt="flow"></img>
+
+
+
 
