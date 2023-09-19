@@ -51,8 +51,8 @@ Depending on the input of the pushbutton, it generates sine waves of different f
 - "Image Transmission and Reception Using 802.11 Waveform and SDR", https://www.mathworks.com/help/supportpkg/plutoradio/ug/transmission-and-reception-of-an-image-using-wlan-system-toolbox-and-a-single-pluto-radio.html
 
 # Overall hardware configuration
-<img src="/Photo Booth/images/hw1.jpg" width="20%" height="20%" title="flow" alt="flow"></img>
-<img src="/Photo Booth/images/hw2.jpg" width="20%" height="20%" title="flow" alt="flow"></img>
-<img src="/Photo Booth/images/hw3.jpg" width="20%" height="20%" title="flow" alt="flow"></img>
+<img src="/Photo Booth/images/hw1.JPG" width="20%" height="20%" title="flow" alt="flow"></img>
+<img src="/Photo Booth/images/hw2.JPG" width="20%" height="20%" title="flow" alt="flow"></img>
+<img src="/Photo Booth/images/hw3.JPG" width="20%" height="20%" title="flow" alt="flow"></img>
 
 - Arduino, Adalm Pluto, USB Webcam, Servo motor, Buttons
