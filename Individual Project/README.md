@@ -1,4 +1,5 @@
 # Individual Project
+> Simulated the S21 parameter with AWR design software tool
 > Measured the S21 parameter of the designed patch antenna using Adalm Pluto and Matlab
 
 # 1. Simulation

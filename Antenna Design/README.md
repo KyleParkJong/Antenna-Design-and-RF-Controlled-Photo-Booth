@@ -1,5 +1,5 @@
 # Patch Antenna Design
-> Designd Patch Antenna and simulated it's S11 parameter with AWS design software tool
+> Designd Patch Antenna and simulated it's S11 parameter with AWR design software tool
 
 ## Before
 - Used the calculator provided by the site below to find the width and length of the patch antenna.
